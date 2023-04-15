@@ -30,6 +30,7 @@ A curated list of Databricks' Dolly implementations, documentation, and use case
 ## Tutorials
 
 - [Dolly 2.0 Series](https://github.com/kw2828/Dolly-2.0-Series)
+- [Running Dolly on Paperspace](https://til.simonwillison.net/llms/dolly-2)
 
 
 ## Other
