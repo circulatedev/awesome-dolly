@@ -19,9 +19,6 @@ A curated list of Databricks' Dolly implementations, documentation, and use case
 
 # Resources
 
-_Where to discover relevant information._
-
-
 ## Documentation
 
 - [Databricks Dolly GitHub](https://github.com/databrickslabs/dolly)
