@@ -2,6 +2,8 @@
 
 A curated list of Databricks' Dolly implementations, documentation, and use cases
 
+[Join Discord](https://discord.gg/SEmAgR2eWF) if you would like to help build up a community of users
+
 ## Contents
 
 - [Projects](#projects)
