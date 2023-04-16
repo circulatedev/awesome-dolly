@@ -15,6 +15,9 @@ A curated list of Databricks' Dolly implementations, documentation, and use case
   - [Other](#other)
 
 
+<br />
+<br />
+
 # Projects
 
 _Contains examples of using Dolly, building applications with Dolly, and so on._
@@ -33,6 +36,8 @@ _Contains examples of using Dolly, building applications with Dolly, and so on._
 - [Deploying Dolly via Truss](https://github.com/basetenlabs/dolly-v2-truss)
 
 
+<br />
+<br />
 
 # Resources
 
