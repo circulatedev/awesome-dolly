@@ -26,6 +26,8 @@ _Contains examples of using Dolly, building applications with Dolly, and so on._
 
 - [LangChain](https://python.langchain.com/en/latest/index.html)
   - [Use Dolly with LangChain](https://github.com/hwchase17/langchain/issues/2928)
+- [Deploying to Banana ML](https://www.banana.dev/)
+  - [Banana Dolly 12b](https://github.com/bbreton3/banana-dolly-v2-12B)
 
 
 
