@@ -8,7 +8,8 @@ A curated list of Databricks' Dolly implementations, documentation, and use case
 
 - [Projects](#projects)
   - [Running Locally](#running-locally)
-  - [Building Applications](#building-applications)
+  - [Building Applications](#building-dolly-applications)
+  - [Deploying Applications](#deploying-dolly-applications)
 - [Resources](#resources)
   - [Documentation](#documentation)
   - [Tutorials](#tutorials)
@@ -27,13 +28,17 @@ _Contains examples of using Dolly, building applications with Dolly, and so on._
 - [Docker - Running 12b model with 3080 & 16GB RAM](https://github.com/lunabrain-ai/dolly-v2-12b-8bit-example)
 
 
-## Building Applications
+## Building Dolly Applications
 
 - [LangChain](https://python.langchain.com/en/latest/index.html)
   - [Use Dolly with LangChain](https://github.com/hwchase17/langchain/issues/2928)
+  
+  
+## Deploying Dolly Applications
 - [Deploying to Banana ML](https://www.banana.dev/)
   - [Banana Dolly 12b](https://github.com/bbreton3/banana-dolly-v2-12B)
 - [Deploying Dolly via Truss](https://github.com/basetenlabs/dolly-v2-truss)
+- [Running Dolly on Paperspace](https://til.simonwillison.net/llms/dolly-2)
 
 
 <br />
@@ -56,7 +61,6 @@ _Contains documentation, guides, relevant news, and so on._
 ## Tutorials
 
 - [Dolly 2.0 Series](https://github.com/kw2828/Dolly-2.0-Series)
-- [Running Dolly on Paperspace](https://til.simonwillison.net/llms/dolly-2)
 - [(Video) - DOLLY 2 LLM explained: New Open-Source LLM w/ code](https://www.youtube.com/watch?v=kZazs6V3314&ab_channel=code_your_own_AI)
 
 
