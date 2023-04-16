@@ -20,7 +20,6 @@ _Contains examples of using Dolly, building applications with Dolly, and so on._
 ## Running Locally
 
 - [Docker - Running 12b model with 3080 & 16GB RAM](https://github.com/lunabrain-ai/dolly-v2-12b-8bit-example)
-- 
 
 
 ## Building Applications
