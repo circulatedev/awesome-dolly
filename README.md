@@ -28,6 +28,7 @@ _Contains examples of using Dolly, building applications with Dolly, and so on._
   - [Use Dolly with LangChain](https://github.com/hwchase17/langchain/issues/2928)
 - [Deploying to Banana ML](https://www.banana.dev/)
   - [Banana Dolly 12b](https://github.com/bbreton3/banana-dolly-v2-12B)
+- [Deploying Dolly via Truss](https://github.com/basetenlabs/dolly-v2-truss)
 
 
 
