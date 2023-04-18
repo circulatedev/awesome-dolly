@@ -7,8 +7,8 @@ A curated list of Databricks' Dolly implementations, documentation, and use case
 ## Contents
 
 - [Projects](#projects)
-  - [Running Locally](#running-locally)
-  - [Building Applications](#building-dolly-applications)
+  - [Running Dolly](#running-dolly)
+  - [Dolly Applications](#dolly-applications)
   - [Deploying Applications](#deploying-dolly-applications)
   - [Instructions in other Languages](#instructions-in-other-languages)
   - [Benchmarks](#benchmarks)
