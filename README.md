@@ -2,7 +2,7 @@
 
 A curated list of Databricks' Dolly implementations, documentation, and use cases
 
-[Join Discord](https://discord.gg/SEmAgR2eWF) if you would like to help build up a community of users
+[Dolly GitHub](https://github.com/databrickslabs/dolly)
 
 ## Contents
 
@@ -25,12 +25,12 @@ A curated list of Databricks' Dolly implementations, documentation, and use case
 
 _Contains examples of using Dolly, building applications with Dolly, and so on._
 
-## Running Locally
+## Running Dolly
 
 - [Docker - Running 12b model with 3080 & 16GB RAM](https://github.com/lunabrain-ai/dolly-v2-12b-8bit-example)
+- [Starter Notebook Example](https://github.com/NageshMashette/Dolly-2.0-LLM)
 
-
-## Building Dolly Applications
+## Dolly Applications
 
 - [LangChain](https://python.langchain.com/en/latest/index.html)
   - [Use Dolly with LangChain](https://github.com/hwchase17/langchain/issues/2928)
@@ -38,7 +38,6 @@ _Contains examples of using Dolly, building applications with Dolly, and so on._
 - [Dolly 2, HF Embedding, and LlamaIndex](https://github.com/autratec/dolly2.0_3b_HFembedding_Llamaindex)
 - [Dolly Server](https://github.com/garland3/dollyserver)
 - [Dolly Chat Server](https://github.com/riversun/chatux-server-dolly)
-- [Starter Notebook Example](https://github.com/NageshMashette/Dolly-2.0-LLM)
 - [Dolly3d Telegram Bot](https://github.com/sanychta/dolly3d_bot)
   
 ## Deploying Dolly Applications
@@ -77,7 +76,6 @@ _Contains documentation, guides, relevant news, and so on._
 ## Tutorials
 
 - [Dolly 2.0 Series](https://github.com/kw2828/Dolly-2.0-Series)
-- [(Video) - DOLLY 2 LLM explained: New Open-Source LLM w/ code](https://www.youtube.com/watch?v=kZazs6V3314&ab_channel=code_your_own_AI)
 
 
 ## Blogs & Media
@@ -91,4 +89,5 @@ _Contains documentation, guides, relevant news, and so on._
 - [VentureBeat: Databricks releases Dolly 2.0, the first open instruction-following LLM for commercial use](https://venturebeat.com/ai/databricks-releases-dolly-2-0-the-first-open-instruction-following-llm-for-commercial-use/)
 - [TechCrunch: Databricks’ Dolly 2 generative AI is now open source](https://techcrunch.com/2023/04/12/databricks-dolly-2-generative-ai-open-source/)
 - [Gearrice: Meet Dolly, the free and open-source AI](https://www.gearrice.com/update/meet-dolly-the-free-and-open-source-ai/)
+- [(Video) - DOLLY 2 LLM explained: New Open-Source LLM w/ code](https://www.youtube.com/watch?v=kZazs6V3314&ab_channel=code_your_own_AI)
 
